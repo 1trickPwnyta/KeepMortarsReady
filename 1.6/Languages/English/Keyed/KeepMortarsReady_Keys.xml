@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<KeepMortarsReady_CommandKeepReady>Keep ready</KeepMortarsReady_CommandKeepReady>
+	<KeepMortarsReady_CommandKeepReadyDesc>Designates this mortar for keeping ready to fire at a moment's notice.</KeepMortarsReady_CommandKeepReadyDesc>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <WorkGiverDef>
+    <defName>ReadyMortar</defName>
+    <label>ready mortars</label>
+    <giverClass>WorkGiver_ReadyMortar</giverClass>
+    <workType>BasicWorker</workType>
+	<workTags>
+      <li>Violent</li>
+    </workTags>
+    <verb>ready</verb>
+    <gerund>readying</gerund>
+    <priorityInType>40</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+</Defs>

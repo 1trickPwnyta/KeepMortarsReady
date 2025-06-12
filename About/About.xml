@@ -3,11 +3,13 @@
 	<name>Keep Mortars Ready</name>
 	<author>1trickPwnyta</author>
 	<packageId>keepmortarsready.1trickPwnyta</packageId>
+	<modVersion IgnoreIfNoMatchingField="True">1.0.7</modVersion>
 	<supportedVersions>
 		<li>1.2</li>
 		<li>1.3</li>
 		<li>1.4</li>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>
 Colonists will keep mortars ready to fire at a moment's notice so you don't have to micro-manage them.
@@ -18,16 +20,20 @@ Readying individual mortars can be toggled on and off.
 
 Not particularly compatible with existing saves, however it will work if you deconstruct and rebuild all your mortars.
 
-Works with 1.2, 1.3, 1.4, and 1.5 with both reinforced barrels (those are reloaded already in vanilla) as well as classic mortar mode.
+Works with both reinforced barrels (those are reloaded already in vanilla) as well as classic mortar mode.
 Not compatible with Combat Extended! Likely incompatible with any non-vanilla mortars and potentially other mortar mods.
 
 === Updates ===
+06/12/2025: Updated to 1.6
 08/14/2024: Fixed bug where colonists just stand when there are no shells to load a mortar with.
 03/19/2024: Updated to 1.5, fixed bug where pawns get stuck when a mortar needs a new barrel.
 10/26/2022: Updated to 1.4
 03/12/2022: Removed duplicate assemblies causing startup errors, double alerts, and double human operation choices.
 03/11/2022: Re-fixed the bug where colonists continually attempt to ready a mortar when there are no shells available.
 08/11/2021: Pawns now swap out shells that are no longer allowed in the mortar's settings. Added a more user-friendly error message when mortars built before enabling the mod are present. Fixed a bug where colonists continually attempt to ready a mortar when there are no shells available.
+
+=== Credits ===
+Mod icon: twitter.com/mouse_draws
 	</description>
 	<url>https://github.com/1trickPwnyta/KeepMortarsReady</url>
 </ModMetaData>
